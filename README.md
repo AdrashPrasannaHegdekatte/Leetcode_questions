@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Math
 |  |
@@ -105,18 +107,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -126,8 +128,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

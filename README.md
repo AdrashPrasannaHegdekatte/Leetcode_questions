@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Hash Table
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
 | ------- |

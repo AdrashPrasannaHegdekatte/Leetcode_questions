@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
+| [2233-maximum-product-after-k-increments](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Heap (Priority Queue)
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |

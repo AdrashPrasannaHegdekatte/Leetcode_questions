@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
 | [2233-maximum-product-after-k-increments](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2233-maximum-product-after-k-increments) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
+| [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |

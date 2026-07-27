@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0436-find-right-interval) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

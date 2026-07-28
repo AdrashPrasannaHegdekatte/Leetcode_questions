@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0278-first-bad-version) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

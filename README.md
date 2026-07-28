@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0502-ipo) |
+| [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0436-find-right-interval) |
+| [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
+| [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->

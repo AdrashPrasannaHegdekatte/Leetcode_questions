@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

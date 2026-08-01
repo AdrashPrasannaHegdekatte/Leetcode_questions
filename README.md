@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
+| [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
+| [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 ## Quickselect
 |  |
 | ------- |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0577-employee-bonus) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

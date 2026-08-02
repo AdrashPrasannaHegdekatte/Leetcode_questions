@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1260-shift-2d-grid) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -315,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

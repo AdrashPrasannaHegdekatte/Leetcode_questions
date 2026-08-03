@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0658-find-k-closest-elements) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |

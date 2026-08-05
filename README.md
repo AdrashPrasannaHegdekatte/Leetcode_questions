@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0162-find-peak-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0278-first-bad-version) |

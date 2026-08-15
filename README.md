@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
@@ -323,11 +324,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |

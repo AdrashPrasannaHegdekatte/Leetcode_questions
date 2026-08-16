@@ -1,0 +1,17 @@
+class Solution(object):
+    def stoneGameIX(self, stones):
+        """
+        :type stones: List[int]
+        :rtype: bool
+        """
+        c0,c1,c2=0,0,0
+
+        for s in stones:
+            r=s%3
+            if r==0:c0+=1
+            elif r==1:c1+=1
+            else:c2+=1
+        if c0%2==0:return c1>0 and c2>0
+        return abs(c1-c2)>2
+
+        

@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0658-find-k-closest-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Depth-First Search
 |  |

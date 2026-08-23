@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2029-stone-game-ix) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2233-maximum-product-after-k-increments](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2233-maximum-product-after-k-increments) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
+| [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |

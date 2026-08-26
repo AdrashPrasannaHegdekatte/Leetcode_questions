@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0658-find-k-closest-elements) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |

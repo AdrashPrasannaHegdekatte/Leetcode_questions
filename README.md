@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |

@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |

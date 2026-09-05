@@ -1,0 +1,24 @@
+class Solution(object):
+    def firstStableIndex(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        n=len(nums)
+        prefMax=[0]*n
+        prefMax[0]=nums[0]
+        suffMin=[0]*n
+        suffMin[-1]=nums[-1]
+        maxi=float("-inf")
+        mini=float("inf")
+        for i in range(1,n):
+            prefMax[i]=max(prefMax[i-1],nums[i])
+
+        for i in range(n-2,-1,-1):
+            suffMin[i]=min(suffMin[i+1],nums[i])
+
+        for i in range(n):
+            if prefMax[i]-suffMin[i]<=k:
+                return i
+        return -1

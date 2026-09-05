@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |

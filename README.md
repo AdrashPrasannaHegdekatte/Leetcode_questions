@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0275-h-index-ii) |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

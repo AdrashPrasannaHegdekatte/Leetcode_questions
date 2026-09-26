@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1792-maximum-average-pass-ratio) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

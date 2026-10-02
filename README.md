@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0316-remove-duplicate-letters) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

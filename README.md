@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1383-maximum-performance-of-a-team](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

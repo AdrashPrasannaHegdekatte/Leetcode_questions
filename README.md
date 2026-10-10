@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0024-swap-nodes-in-pairs) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |

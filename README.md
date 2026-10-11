@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |

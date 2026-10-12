@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0015-3sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0658-find-k-closest-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0763-partition-labels) |

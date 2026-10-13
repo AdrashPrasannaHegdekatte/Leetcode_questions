@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3904-smallest-stable-index-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

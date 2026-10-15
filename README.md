@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -570,4 +572,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

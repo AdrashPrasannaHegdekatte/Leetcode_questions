@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |

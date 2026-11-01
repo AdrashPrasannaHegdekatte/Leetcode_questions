@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0436-find-right-interval) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0480-sliding-window-median](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0502-ipo) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |

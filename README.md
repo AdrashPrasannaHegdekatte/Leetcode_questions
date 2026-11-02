@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3310-remove-methods-from-project) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |

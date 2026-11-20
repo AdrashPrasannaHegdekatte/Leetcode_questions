@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0313-super-ugly-number](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0313-super-ugly-number) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0024-swap-nodes-in-pairs) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/0486-predict-the-winner) |

@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3360-stone-removal-game](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AdrashPrasannaHegdekatte/Leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
